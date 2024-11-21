@@ -1,0 +1,66 @@
+/* BmiCalculator.css */
+
+.container {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+.input-group {
+  margin: 20px 0;
+}
+
+.caculator-button {
+  background-color: rgb(65, 112, 182);
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  padding: 10px 15px;
+}
+
+.result {
+  margin-top: 15px;
+}
+
+.reset-button {
+  background-color: rgb(189, 83, 83);
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  padding: 10px 15px;
+}
+
+.history {
+  margin-top: 20px;
+  padding: 15px;
+  border-top: 3px solid #ccc;
+}
+
+.history h2 {
+  margin-bottom: 10px;
+}
+
+.history ul {
+  list-style-type: none;
+  padding: 10px;
+}
+
+.history li {
+  margin-bottom: 10px;
+}
+
+.history button {
+  margin-top: 10px;
+  padding: 10px 15px;
+  background-color: rgb(189, 83, 83);
+  color: white;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.history button:hover {
+  background-color: #747977;
+}
